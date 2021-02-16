@@ -2,6 +2,7 @@
 const express = require("express");
 const logger = require("morgan");
 const mongoose = require("mongoose");
+const { on } = require("./models/workout");
 //! require("./seeders/seed"); // Either npm run seed or keep this in here uncommented and it will run the seed
 
 const PORT = process.env.PORT || 3005;
@@ -18,6 +19,14 @@ app.use(express.static("public"));
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
   useNewUrlParser: true,
   useFindAndModify: false
+});
+
+mongoose.connection.once('open', ()=>{
+    console.log('connection created');
+
+});
+     on('error',()=>{
+      console.log(error)
 });
 
 //require(apiRoute)(app);
