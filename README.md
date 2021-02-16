@@ -38,7 +38,7 @@ with 0 for the numbers and no string for the title/name area.
 
 ## Credits
 
-This application was completed by Jeff Quittman as a project for UCLA/Trilogy's Full Stack Software Development Bootcamp.
+This application was completed by Clinton Abumbi as a project for UCLA/Trilogy's Full Stack Software Development Bootcamp.
 
 Dependencies for this project include the node modules:
 
@@ -78,6 +78,6 @@ If you would like to contribute to this application, please feel free to email m
 
 ## Questions
 
--   For any questions related to this applicaiton, please contact me at: JeffQuittman@gmail.com.
+-   For any questions related to this applicaiton, please contact me at: clintonchunga@gmail.com.
 
--   Please use this link to access my Github Profile: [https://github.com/JeffQuit](https://github.com/JeffQuit)
+-   Please use this link to access my Github Profile: [https://github.com/chunga-codder](https://github.com/chunga-codder)
