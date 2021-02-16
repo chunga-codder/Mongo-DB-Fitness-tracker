@@ -19,6 +19,7 @@ i am very happy i had to do all this
 
 -   [Installation](#installation)
 -   [Usage](#usage)
+    [Images](#images)
 -   [Credits](#credits)
 -   [License](#license)
 -   [Links](#links)
@@ -36,6 +37,14 @@ After the dependencies have been installed, you will need to populate your Mongo
 Once everything has been set up, the application can be launched by running the command node server.js or npm start. You will then need to visit the local host URL for the port that you have set up for this application. Once loaded in the browser, you can either click the dashboard page to view the
 workout stats on the graphs provided or add/contnue a workout by clicking the buttons to add or update a new workout on the home page. When adding a new workout, ensure to click complete once you have filled everything in as if you click add exercise, then it will add a blank instance of a workout
 with 0 for the numbers and no string for the title/name area.
+
+## Images:
+
+sample app shots and graphs
+
+![fitness tracker](https://user-images.githubusercontent.com/71171928/108019470-9b2fe500-701a-11eb-9d6c-898024e0f8d0.PNG)
+![fitness tracker 2](https://user-images.githubusercontent.com/71171928/108019482-9d923f00-701a-11eb-84b9-587474b3614d.PNG)
+
 
 ## Credits
 
