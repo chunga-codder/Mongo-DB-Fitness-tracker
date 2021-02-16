@@ -21,6 +21,7 @@ i am very happy i had to do all this
 -   [Usage](#usage)
 -   [Credits](#credits)
 -   [License](#license)
+-   [Links](#links)
 -   [Contributing](#contributing)
 -   [Questions](#questions)
 
@@ -72,7 +73,11 @@ Dependencies for this project include the node modules:
         OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
         SOFTWARE.
 
+## Links:
 
+   for my link to my sample video, che on [vedeo-demo](https://drive.google.com/file/d/1LiuXQx6RXnzKaNyf6sBTIFVfKSb9EE7Z/view)
+   for this deployed application, you can fine ih [here](https://aqueous-gorge-96089.herokuapp.com/)
+   
 ## Contributing
 
 If you would like to contribute to this application, please feel free to email me via the email found in the questions section and we can discuss how to collaborate and enhance this application
