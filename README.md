@@ -13,7 +13,7 @@ i am very happy i had to do all this
 
 ## Demo
 
-<img src="/DemoImgs/FitnessTrackerp17.gif?raw=true">
+<img src="\image\FitnessTrackerp17.gif">
 
 ## Table of Contents
 
